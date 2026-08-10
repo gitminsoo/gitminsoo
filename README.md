@@ -12,10 +12,18 @@
 임베디드 시스템 연구에서 쌓은 구조 설계 경험을 바탕으로,  
 **엣지 환경부터 AWS 클라우드까지 연결되는 인프라를 설계하고 자동화합니다.**
 
+---
+
 </div>
 
-## Contact
+## Research & Certification
 
+- SCIE 국제 저널 제1저자 논문 6편
+- AWS Certified Solutions Architect – Associate
+- 정보처리기사 · 네트워크관리사 2급
+- 메가존클라우드 MSP 양성과정 최우수상, 최우수팀 수상
+
+## Contact
 
 <p>
   <a href="mailto:minsukim0919@gmail.com">
@@ -25,6 +33,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
 
 ---
 
@@ -118,30 +127,7 @@
 
 ---
 
-## Research & Certification
 
-- SCIE 국제 저널 제1저자 논문 6편
-- 석사 졸업논문: 엣지 학습 기반 교통량 예측 및 적응형 인프라 제어
-- AWS Certified Solutions Architect – Associate
-- 정보처리기사 · 네트워크관리사 2급
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gitminsoo&show_icons=true&theme=transparent&hide_border=true&title_color=3d67e6&icon_color=4ae881&text_color=6b7280"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitminsoo&layout=compact&theme=transparent&hide_border=true&title_color=3d67e6&text_color=6b7280"
-    height="165"
-    alt="Top Languages"
-  />
-</div>
-
----
 
 
