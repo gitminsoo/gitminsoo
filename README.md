@@ -14,6 +14,18 @@
 
 </div>
 
+## Contact
+
+
+<p>
+  <a href="mailto:minsukim0919@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://minsooport.notion.site/3958af48a8dd8063b950e2b995cfd248">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
 ---
 
 ## Core Focus
@@ -132,13 +144,4 @@
 
 ---
 
-## Contact
 
-<p>
-  <a href="mailto:minsukim0919@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://minsooport.notion.site/3958af48a8dd8063b950e2b995cfd248">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio">
-  </a>
-</p>
