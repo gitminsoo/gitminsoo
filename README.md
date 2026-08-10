@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&color=0:4ae881,100:3d67e6&height=160&text=Minsoo%20Kim&fontColor=3d67e6&fontSize=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=transparent&color=0:4ae881,100:3d67e6&height=160&text=Nice%20to,%20gitminsoo&fontColor=3d67e6&fontSize=58&animation=fadeIn"
     alt="Nice to, gitminsoo"
   />
 </div>
